@@ -1,6 +1,6 @@
 # core-java-basics
 
-app1	:	Hello world dev
+app1	:	Hello world dev \n
 app2	:	local variables.
 app3	:	unary operators.
 app4	:	command line arguments
